@@ -22,7 +22,7 @@
     "grunt-concurrent": "~2.0.3",
     "browserify": "~11.2.0",
     "grunt-browserify": "~4.0.1",
-    "temporary": "0.0.8",
+    "temporary": "1.0.1",
     "grunt-contrib-uglify": "~0.9.2",
     "rewire": "~2.0.0",
     "envify": "~3.4.0",
